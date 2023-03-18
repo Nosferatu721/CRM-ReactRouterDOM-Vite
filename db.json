@@ -34,6 +34,14 @@
       "telefono": 1398198938,
       "email": "pedro@juan.com",
       "empresa": "Codigo Con Juan"
+    },
+    {
+      "nombre": "Elkin Torres",
+      "empresa": "Papitas",
+      "email": "elkintorres7212@gmail.com",
+      "telefono": "312389789",
+      "notas": "Notita",
+      "id": 7
     }
   ]
 }
